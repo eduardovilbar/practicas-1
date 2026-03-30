@@ -62,4 +62,5 @@ if (totalCompra > 1000){console.log("tu envio es gratis");
     console.log ("el envio tiuene un costo extra");
 }
 
-//prueba2
+//prueba1
+//pueba 2
