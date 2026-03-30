@@ -61,3 +61,5 @@ if (totalCompra > 1000){console.log("tu envio es gratis");
 } else {
     console.log ("el envio tiuene un costo extra");
 }
+
+// preuba 1
