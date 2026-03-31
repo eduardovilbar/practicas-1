@@ -63,3 +63,4 @@ if (totalCompra > 1000){console.log("tu envio es gratis");
 }
 
 // preuba 1
+// prueba 2
